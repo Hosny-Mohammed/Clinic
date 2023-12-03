@@ -1,0 +1,34 @@
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\Cilinic WPF.exe.config
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\Cilinic WPF.exe
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\Cilinic WPF.pdb
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF_MarkupCompile.cache
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF_MarkupCompile.lref
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.g.resources
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic_WPF.Properties.Resources.resources
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.exe
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.pdb
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\LogIn.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\LogIn.baml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF_Content.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\Cilinic WPF.csproj.CopyComplete
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\AdminPage.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\UserPage.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\AdminPage.baml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\UserPage.baml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\SignUp.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\SignUp.baml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\ForgetPage.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\ForgetPage.baml
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\UsersManagement.g.cs
+C:\Users\IT\Desktop\Cilinic WPF\Cilinic WPF\obj\Debug\UsersManagement.baml
